@@ -1,4 +1,4 @@
-package Lista02;
+package Atividade02;
 
 public class EX05 {
 

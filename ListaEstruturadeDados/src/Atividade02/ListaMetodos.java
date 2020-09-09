@@ -1,4 +1,4 @@
-package Lista02;
+package Atividade02;
 
 // ------ LISTA DE STRING COM SEUS MÉTODOS E OPERAÇÕES ------
 

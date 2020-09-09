@@ -11,7 +11,7 @@ Professor: Fábio
  */
 
 
-package Lista01;
+package Atividade01;
 
 
 public class EX02 {

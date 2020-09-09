@@ -10,7 +10,7 @@ Professor: F�bio
  *************************
  */
 
-package Lista01;
+package Atividade01;
 import java.util.Random;
 
 public class EX01 {

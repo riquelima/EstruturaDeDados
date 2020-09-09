@@ -1,6 +1,6 @@
-package Lista02;
+package Atividade02;
 
-import Lista02.ListaMetodos;
+import Atividade02.ListaMetodos;
 
 /*------ CLASSE PRINCIPAL DE EXECUÇÃO DO PROGRAMA ------
 3  - 
