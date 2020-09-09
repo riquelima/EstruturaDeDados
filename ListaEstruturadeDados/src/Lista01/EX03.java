@@ -9,7 +9,7 @@ Professor: Fábio
  *************************
  */
 
-package Atividade01;
+package Lista01;
 
 public class EX03 {
 

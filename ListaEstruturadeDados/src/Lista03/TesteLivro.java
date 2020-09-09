@@ -3,12 +3,13 @@
  * Aluno: Henrique Souza Lima
  */
 
-package Lista01;
+package Lista03;
 
 import javax.swing.JOptionPane;
-import Lista01.PilhaLivros;
-import Lista01.LivroMetodos;
-import Lista01.FilaLivros;
+
+import Lista03.FilaLivros;
+import Lista03.LivroMetodos;
+import Lista03.PilhaLivros;
 
 public class TesteLivro {
 

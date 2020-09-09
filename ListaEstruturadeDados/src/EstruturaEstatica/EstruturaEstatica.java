@@ -1,3 +1,5 @@
+// --------------- EM CONSTRUÇÃO ----------------
+
 package EstruturaEstatica;
 
 public class EstruturaEstatica<T> {

@@ -3,7 +3,7 @@
  * Aluno: Henrique Souza Lima
  */
 
-package Lista01;
+package Lista03;
 
 public class Pilha {
 

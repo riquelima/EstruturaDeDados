@@ -3,10 +3,10 @@
  * Aluno: Henrique Souza Lima
  */
 
-package Lista01;
+package Lista03;
 import javax.swing.JOptionPane;
 
-import Lista01.Pilha;
+import Lista03.Pilha;
 
 public class Teste {
 

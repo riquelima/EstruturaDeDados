@@ -1,6 +1,6 @@
-package Atividade02;
+package Lista02;
 
-import Atividade02.ListaMetodos;
+import Lista02.ListaMetodos;
 
 /*------ CLASSE PRINCIPAL DE EXECUÇÃO DO PROGRAMA ------
       2 - Implemente na classe Lista um método que remove o elemento de uma posição 

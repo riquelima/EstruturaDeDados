@@ -10,7 +10,7 @@ Professor: Fábio
  */
 
 
-package Atividade01;
+package Lista01;
 
 import java.util.Random;
 
