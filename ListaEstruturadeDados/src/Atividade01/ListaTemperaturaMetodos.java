@@ -2,12 +2,12 @@ package Atividade01;
 
 	// ------ LISTA DE STRING COM SEUS MÉTODOS E OPERAÇÕES ------
 
-	public class ListaMetodos {
+	public class ListaTemperaturaMetodos {
 		private String[] dados; // array de strings com as temperaturas
 		private int tamanho; // capacidade de elementos guardados na lista
 
 		// **** Metodo construtor ****
-		public ListaMetodos(int capacidade) {
+		public ListaTemperaturaMetodos(int capacidade) {
 			this.dados = new String[capacidade];
 			this.tamanho = 0;
 		}
