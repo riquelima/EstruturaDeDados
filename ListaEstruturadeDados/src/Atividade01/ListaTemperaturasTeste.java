@@ -28,13 +28,13 @@ public class ListaTemperaturasTeste {
 				
 				// adiciona uma temperatura no final  da lista
 				System.out.println("");
-				System.out.println("------- Adicionando temperatura ao inicio ---------");
+				System.out.println("------- Adicionando temperatura ao final ---------");
 				lista.adicionaFinal("90º graus");			
 				System.out.println(lista);
 				
 				// adiciona uma temperatura na posicao desejada da lista
 				System.out.println("");
-				System.out.println("------- Adicionando temperatura ao inicio ---------");
+				System.out.println("------- Adicionando temperatura a posicao desejada ---------");
 				lista.adicionaQualquerPosicao(4, "52º graus");				
 				System.out.println(lista);
 				
@@ -44,7 +44,7 @@ public class ListaTemperaturasTeste {
 				lista.remove(0);
 				System.out.println(lista);
 				
-				// remove a temperatura do inicio da lista
+				// remove a temperatura do final da lista
 				System.out.println("");
 				System.out.println("------- Removendo temperatura do final ---------");
 				lista.remove(4);
@@ -52,7 +52,7 @@ public class ListaTemperaturasTeste {
 				
 				// remove a temperatura da posicao desejada da lista
 				System.out.println("");
-				System.out.println("------- Removendo temperatura do final ---------");
+				System.out.println("------- Removendo temperatura da posicao desejada ---------");
 				lista.remove(2);
 				System.out.println(lista);
 				
