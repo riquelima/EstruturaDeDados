@@ -13,11 +13,11 @@ public class ListaMetodos {
 	}
 
 	// **** Adiciona elementos a uma lista de strings ****
-	public boolean adiciona(String elemento) {
+	public boolean adiciona(int i) {
 
 		// verifica se a quantidade dos elementos = capacidade do vetor
 		if (this.tamanho < this.dados.length) {
-			this.dados[this.tamanho] = elemento;
+			this.dados[this.tamanho] = i;
 			this.tamanho++;
 			return true;
 		}
